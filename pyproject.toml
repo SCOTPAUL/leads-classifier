@@ -17,6 +17,7 @@ ipywidgets = "^8.0.1"
 jupyter = "^1.0.0"
 auto-sklearn = "^0.14.7"
 distributed = "^2022.8.1"
+smote-variants = "^0.6.11"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
